@@ -12,7 +12,6 @@
   "dependencies": {
     "cheerio": "^0.22.0",
     "html-entities": "^1.2.0",
-    "leven": "^2.0.0",
     "mystem-wrapper": "^0.2.0",
     "natural": "^0.4.0",
     "phantom": "^2.1.21",

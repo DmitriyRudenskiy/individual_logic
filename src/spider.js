@@ -15,20 +15,7 @@ if (json.length < 1) {
 }
 
 
-/**
- * Сохраняем файл
- * @param string content
- */
-function saveHtml(content) {
-    console.log(content.toString().length);
 
-    /*
-    fs.writeFile('helloworld.txt', 'Hello World!', function (err) {
-        if (err) return console.log(err);
-        console.log('Hello World > helloworld.txt');
-    });
-    */
-}
 
 /**
  * Загрузка страниц
